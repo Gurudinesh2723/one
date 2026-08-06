@@ -789,8 +789,8 @@
             },
             {
                 id: 4,
-                title: 'Nike Air Max 270',
-                price: 150,
+                title: 'Nikeeee Air Max 270',
+                price: 500,
                 rating: 4,
                 reviews: 53,
                 img: 'https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=600&q=80',
