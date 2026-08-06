@@ -789,7 +789,7 @@
             },
             {
                 id: 4,
-                title: 'Nike Air Max 270',
+                title: 'Nikeeeeee Aireeee Maxxxxx 270',
                 price: 500,
                 rating: 4,
                 reviews: 53,
